@@ -10,13 +10,19 @@ This is a simple console-based application developed in **Python** for managing 
 - Generate report as a `.txt` file
 - Fully modular code using custom packages and modules
 
-## 📁 Project Structure
-
-student_grade_manager/ │ ├── main.py # Main program interface ├── grades/ │ ├── init.py # Makes 'grades' a package │ ├── student.py # Student class definition │ └── grade_utils.py # Grade calculation logic └── reports/ └── report_writer.py # Generates report as a text file
-
-markdown
+## 📁 Project Structure:
+css
 Copy
 Edit
+student_grade_manager/
+│
+├── main.py
+├── grades/
+│   ├── __init__.py
+│   ├── student.py
+│   └── grade_utils.py
+└── reports/
+    └── report_writer.py
 
 ## 🛠️ How to Run
 
