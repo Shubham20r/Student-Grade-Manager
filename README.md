@@ -11,9 +11,6 @@ This is a simple console-based application developed in **Python** for managing 
 - Fully modular code using custom packages and modules
 
 ## 📁 Project Structure:
-css
-Copy
-Edit
 student_grade_manager/
 │
 ├── main.py
@@ -34,9 +31,6 @@ student_grade_manager/
 ```bash
 python main.py
 📜 Example Usage
-pgsql
-Copy
-Edit
 --- Student Grade Manager ---
 1. Add Student
 2. View All Students
@@ -49,9 +43,7 @@ Enter roll number: 101
 Enter marks (space-separated): 89 92 85
 Student added successfully.
 📄 Sample Output (student_report.txt)
-yaml
-Copy
-Edit
+
 ---- Student Report ----
 Alice | Roll: 101 | Marks: [89, 92, 85] | Grade: A
 👥 Team Members
